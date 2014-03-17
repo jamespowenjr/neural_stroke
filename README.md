@@ -1,4 +1,5 @@
-neural_stroke
+Analyzing International Stroke Trial 1 Database with Artificial Neural Networks
 =============
 
-Code repository for my semester project in Neural Networks at Johns Hopkins University.
+Author: James Owen
+jamespowenjr@gmail.com
